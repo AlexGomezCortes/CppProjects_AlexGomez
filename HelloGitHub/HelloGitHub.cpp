@@ -6,7 +6,7 @@
 
 int main()
 {
-    cout<<"Hola soy Alex"<<endl;
+    cout<<"Hola soy Pedro"<<endl;
     return 0;
 }
 
